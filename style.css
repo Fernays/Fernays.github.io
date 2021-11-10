@@ -5,6 +5,7 @@ background-color: grey;
 .inner-main-nav{
     max-width: 1500px;
     margin: auto;
+    color: black;
 }
 .inner-main-nav ul{
     text-align: right;
@@ -26,7 +27,7 @@ background-color: grey;
     font-family: Arial;
     text-decoration: none;
     text-transform: uppercase;
-    color: black;
+    color: #333;
     font-weight: bold;
 }
 .logo{
