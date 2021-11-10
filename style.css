@@ -1,3 +1,7 @@
+body{
+background-color: lightgrey;
+}
+
 .inner-main-nav{
     max-width: 1500px;
     margin: auto;
