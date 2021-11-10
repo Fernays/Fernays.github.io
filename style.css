@@ -1,5 +1,5 @@
 .inner-main-nav{
-    max-width: 1200px;
+    max-width: 1500px;
     margin: auto;
 }
 .inner-main-nav ul{
@@ -29,7 +29,7 @@
     width: 150px;
     height: 150px;
     position: absolute;
-    left: 60%;
+    left: 58%;
     transform: translateX(-35%);
 }
 .logo img{
